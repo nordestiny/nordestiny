@@ -2,17 +2,17 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-2430-6230-9e6d-380bcc09ec81/raw?se=2025-06-04T04%3A36%3A09Z&sp=r&sv=2024-08-04&sr=b&scid=4f384a16-31c2-562d-9c6c-d3d8164dacbe&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-04T03%3A18%3A12Z&ske=2025-06-05T03%3A18%3A12Z&sks=b&skv=2024-08-04&sig=827T6eX/aa9P6Jj9Y8dG8TcRYBC26ndIDi190VRhJvg%3D"  />
-</div>
-
-###
-
 <h2 align="left">Sobre mim:</h2>
 
 ###
 
-<p align="left">Sou formado em Licenciatura em Química e Tecnólogo em Gastronomia. Iniciei minha futura carreira na área tecnologica recentemente, em 2025, e tenho trilhado o caminho para me tornar um Desenvolvedor Front-End.</p>
+<p align="left">Formado em Licenciatura em Química e Tecnólogo em Gastronomia, iniciei minha futura carreira na área tecnologica em 2025 e tenho trilhado o caminho para me tornar um Desenvolvedor Front-End.</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-e50c-622f-89a6-75307e5b8374/raw?se=2025-06-04T14%3A13%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=16ca849e-72de-52bc-b23d-fef7a311b84d&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-03T18%3A07%3A14Z&ske=2025-06-04T18%3A07%3A14Z&sks=b&skv=2024-08-04&sig=CiTUT8nGbbZL4DptwD2ood8DNO9160nd0Yg%2B/QHGm/k%3D"  />
+</div>
 
 ###
 
