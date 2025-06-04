@@ -21,14 +21,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alesson-sardinha-moraes-956b02332/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=128858&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/alessonsardinha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=128858&logoColor=b&labelColor=&style=flat" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=126388&logoColor=b&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alesson-sardinha-moraes-956b02332/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126388&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="alesson.ifma2016@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=128858&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=126388&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
 </div>
 
