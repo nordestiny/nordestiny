@@ -1,4 +1,13 @@
-## Hi there 👋
+<h2 align="center">Estatísticas</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nordestiny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=1&custom_title=Desde:%202025" height="291" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nordestiny&locale=pt-br&mode=daily&theme=graywhite&hide_border=false&border_radius=9&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <!--
 **nordestiny/nordestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
