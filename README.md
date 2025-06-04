@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou Alesson 🤘🏻</h2>
+<h2 align="left">Olá! Alesson aqui 🤘🏻</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Formado em Licenciatura em Química e Tecnólogo em Gastronomia, iniciei minha futura carreira na área tecnologica em 2025 e tenho trilhado o caminho para me tornar um Desenvolvedor Front-End.</p>
+<p align="left">Sou formado em Licenciatura em Química e Tecnólogo em Gastronomia. Iniciei minha futura carreira na área tecnologica recentemente, em 2025, e tenho trilhado o caminho para me tornar um Desenvolvedor Front-End.</p>
 
 ###
 
