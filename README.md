@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://bing.com/th/id/BCO.4f008f4e-8694-465b-808d-6598c5304306.png"  />
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:900/0*2blaR2l8ZqJ-HAaV.gif"  />
 </div>
 
 ###
