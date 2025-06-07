@@ -24,16 +24,16 @@
 
 <div align="left">
   <a href="https://www.instagram.com/alessonsardinha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0C2B3A&logoColor=b&labelColor=&style=flat" height="26" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=EC7356&logoColor=b&labelColor=&style=flat" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alesson-sardinha-moraes-956b02332/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0C2B3A&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=416F66&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
   </a>
   <a href="alesson.ifma2016@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0C2B3A&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EC7356&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/98984140747" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=0C2B3A&logoColor=white&labelColor=&style=flat" height="26" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=416F66&logoColor=white&labelColor=&style=flat" height="26" alt="whatsapp logo"  />
   </a>
 </div>
 
