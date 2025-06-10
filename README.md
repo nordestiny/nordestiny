@@ -1,22 +1,14 @@
-<br clear="both">
-
 <h1 align="left">Olá! Alesson aqui 🤘🏻</h1>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">SOBRE MIM:</h3>
 
 ###
 
-<br clear="both">
-
 <p align="left">Sou formado em Licenciatura em Química e Tecnólogo em Gastronomia. Iniciei minha futura carreira na área tecnológica recentemente, em 2025, e tenho trilhado o caminho para me tornar um Desenvolvedor Front-End.</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://bing.com/th/id/BCO.bdb2d0ee-5871-4316-9703-9f7e472d330b.png"  />
@@ -24,13 +16,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">CONECTE-SE COMIGO:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/alessonsardinha/" target="_blank">
