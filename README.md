@@ -10,11 +10,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:900/0*2blaR2l8ZqJ-HAaV.gif"  />
+  <img height="200" src="https://bing.com/th/id/BCO.fb7b28d6-be59-4a0c-892f-621b770375da.png"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">CONECTE-SE COMIGO:</h3>
 
